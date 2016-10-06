@@ -3,7 +3,7 @@ This is my hello-World testing repository
 
 
 ## git help
-### usage: git [--version] [--help] [-C <path>] [-c name=value]
+usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
@@ -44,7 +44,6 @@ This is my hello-World testing repository
 * pull       Fetch from and integrate with another repository or a local branch
 * push       Update remote refs along with associated objects
 
-### 'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
+### 'git help -a' and 'git help -g' list available subcommands and some concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 
